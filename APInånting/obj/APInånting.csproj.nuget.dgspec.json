@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj": {}
+    "C:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj": {
+    "C:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj",
+        "projectUniqueName": "C:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj",
         "projectName": "APInånting",
-        "projectPath": "c:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj",
+        "projectPath": "C:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\APInånting.csproj",
         "packagesPath": "C:\\Users\\albin.tallkvist\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\obj\\",
+        "outputPath": "C:\\Users\\albin.tallkvist\\Documents\\APInånting\\APInånting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
